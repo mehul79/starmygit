@@ -1,4 +1,4 @@
-# startmyigt
+# starmyigt
 
 A platform where you drop a GitHub repo URL and get back an AI-generated
 summary, detected tech stack, and dynamic category tags — no manual tagging,
